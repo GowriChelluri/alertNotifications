@@ -1,0 +1,40 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-heading {
+  font-size: 40px;
+  color: #0f172a;
+  font-family: 'roboto';
+}
+.content-container {
+  display: flex;
+  align-items: center;
+}
+.img {
+  height: 24px;
+  width: 24px;
+  margin-right: 10px;
+}
+.success {
+  color: #2dca73;
+}
+.error {
+  color: #ff0b37;
+}
+.warning {
+  color: #ffb800;
+}
+.info {
+  color: #0f81e0;
+}
+.heading {
+  font-size: 20px;
+}
+.description {
+  font-size: 13px;
+  color: #475569;
+  font-weight: bold;
+  margin-left: 30px;
+}
